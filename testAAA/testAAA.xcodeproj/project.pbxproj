@@ -17,6 +17,7 @@
 		017B9C17273F6C7200049136 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C16273F6C7200049136 /* main.m */; };
 		017B9C21273F6C7200049136 /* testAAATests.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C20273F6C7200049136 /* testAAATests.m */; };
 		017B9C2C273F6C7300049136 /* testAAAUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C2B273F6C7300049136 /* testAAAUITests.m */; };
+		017B9C3B273F8F9900049136 /* JJJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C3A273F8F9900049136 /* JJJViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,8 @@
 		017B9C27273F6C7300049136 /* testAAAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testAAAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		017B9C2B273F6C7300049136 /* testAAAUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testAAAUITests.m; sourceTree = "<group>"; };
 		017B9C2D273F6C7300049136 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		017B9C39273F8F9900049136 /* JJJViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JJJViewController.h; sourceTree = "<group>"; };
+		017B9C3A273F8F9900049136 /* JJJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JJJViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				017B9C04273F6C6700049136 /* SceneDelegate.h */,
 				017B9C05273F6C6700049136 /* SceneDelegate.m */,
 				017B9C07273F6C6700049136 /* ViewController.h */,
+				017B9C39273F8F9900049136 /* JJJViewController.h */,
+				017B9C3A273F8F9900049136 /* JJJViewController.m */,
 				017B9C08273F6C6700049136 /* ViewController.m */,
 				017B9C0A273F6C6700049136 /* Main.storyboard */,
 				017B9C10273F6C7100049136 /* Assets.xcassets */,
@@ -274,6 +279,7 @@
 				017B9C03273F6C6700049136 /* AppDelegate.m in Sources */,
 				017B9C06273F6C6700049136 /* SceneDelegate.m in Sources */,
 				017B9C0F273F6C6700049136 /* testAAA.xcdatamodeld in Sources */,
+				017B9C3B273F8F9900049136 /* JJJViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
