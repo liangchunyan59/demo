@@ -19,6 +19,7 @@
 		017B9C2C273F6C7300049136 /* testAAAUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C2B273F6C7300049136 /* testAAAUITests.m */; };
 		017B9C3B273F8F9900049136 /* JJJViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C3A273F8F9900049136 /* JJJViewController.m */; };
 		017B9C3E2742501E00049136 /* DevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C3D2742501E00049136 /* DevViewController.m */; };
+		017B9C412742539400049136 /* Dev1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 017B9C402742539400049136 /* Dev1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,8 @@
 		017B9C3A273F8F9900049136 /* JJJViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JJJViewController.m; sourceTree = "<group>"; };
 		017B9C3C2742501D00049136 /* DevViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DevViewController.h; sourceTree = "<group>"; };
 		017B9C3D2742501E00049136 /* DevViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DevViewController.m; sourceTree = "<group>"; };
+		017B9C3F2742539400049136 /* Dev1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dev1ViewController.h; sourceTree = "<group>"; };
+		017B9C402742539400049136 /* Dev1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dev1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +95,8 @@
 		017B9BF5273F6C6700049136 = {
 			isa = PBXGroup;
 			children = (
+				017B9C3F2742539400049136 /* Dev1ViewController.h */,
+				017B9C402742539400049136 /* Dev1ViewController.m */,
 				017B9C00273F6C6700049136 /* testAAA */,
 				017B9C1F273F6C7200049136 /* testAAATests */,
 				017B9C2A273F6C7300049136 /* testAAAUITests */,
@@ -285,6 +290,7 @@
 				017B9C06273F6C6700049136 /* SceneDelegate.m in Sources */,
 				017B9C0F273F6C6700049136 /* testAAA.xcdatamodeld in Sources */,
 				017B9C3B273F8F9900049136 /* JJJViewController.m in Sources */,
+				017B9C412742539400049136 /* Dev1ViewController.m in Sources */,
 				017B9C3E2742501E00049136 /* DevViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
